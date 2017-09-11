@@ -1,7 +1,7 @@
 var canvas = document.createElement("canvas");
 var ctx = canvas.getContext("2d");
-canvas.width = 360;
-canvas.height = 512;
+canvas.width = 960;
+canvas.height = 600;
 document.body.appendChild(canvas);
 
 var tiles_x = [];
